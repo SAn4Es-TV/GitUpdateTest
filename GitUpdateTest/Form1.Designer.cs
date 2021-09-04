@@ -106,7 +106,7 @@ namespace GitUpdateTest
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "GitUpdateTest v1.4";
             this.ResumeLayout(false);
             this.PerformLayout();
 
